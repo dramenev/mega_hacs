@@ -14,7 +14,7 @@ import time
 from homeassistant.components.light import (
     PLATFORM_SCHEMA as LIGHT_SCHEMA,
     LightEntity,
-    SUPPORT_COLOR,
+    # SUPPORT_COLOR,
     ColorMode,
     LightEntityFeature,
     # SUPPORT_WHITE_VALUE
